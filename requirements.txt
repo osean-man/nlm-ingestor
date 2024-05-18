@@ -2,6 +2,7 @@ flask
 flask_restful
 flask_jsonpify
 gunicorn
+gevent
 werkzeug
 tika
 bs4
